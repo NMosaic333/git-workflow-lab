@@ -1,0 +1,15 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+pydantic==2.6.4
+pydantic-settings==2.2.1
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-google-genai==1.0.1
+sentence-transformers==2.6.0
+chromadb==0.4.24
+PyMuPDF==1.24.1
+rank-bm25==0.2.2
+nltk==3.8.1
+SQLAlchemy==2.0.29
+python-dotenv==1.0.1
